@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8fd6dc2f.css",
+    "main.js": "/static/js/main.04207bc8.js",
+    "static/js/787.c1472649.chunk.js": "/static/js/787.c1472649.chunk.js",
+    "static/media/Banner.png": "/static/media/Banner.451e659cae24c54ef638.png",
+    "static/media/VaiFicarFora.png": "/static/media/VaiFicarFora.de61c0f4a1f9d42a2a53.png",
+    "static/media/celulares.png": "/static/media/celulares.918b762a724eb66d9ccd.png",
+    "static/media/FundoSobreApp2.png": "/static/media/FundoSobreApp2.677c7434664eec3efab2.png",
+    "static/media/HomemBanner.png": "/static/media/HomemBanner.76eb39924b3f5d9ad93e.png",
+    "static/media/FontsFree-Net-Proxima-Nova-Xbold.otf": "/static/media/FontsFree-Net-Proxima-Nova-Xbold.c9d202c8ffb95b6ec8c1.otf",
+    "static/media/Proxima Nova Font.otf": "/static/media/Proxima Nova Font.7bc9ce404c297c24f210.otf",
+    "static/media/FontsFree-Net-Proxima-Nova-Thin.otf": "/static/media/FontsFree-Net-Proxima-Nova-Thin.b0d2279d75279ba5b3fd.otf",
+    "static/media/BannerBloqueio.png": "/static/media/BannerBloqueio.aecbc873f4f4e757f24d.png",
+    "static/media/FundoSobreApp3.png": "/static/media/FundoSobreApp3.44b0086da7076227ee13.png",
+    "static/media/FundoSobreApp.png": "/static/media/FundoSobreApp.9db20a70182bb75e52a6.png",
+    "index.html": "/index.html",
+    "main.8fd6dc2f.css.map": "/static/css/main.8fd6dc2f.css.map",
+    "main.04207bc8.js.map": "/static/js/main.04207bc8.js.map",
+    "787.c1472649.chunk.js.map": "/static/js/787.c1472649.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8fd6dc2f.css",
+    "static/js/main.04207bc8.js"
+  ]
+}
